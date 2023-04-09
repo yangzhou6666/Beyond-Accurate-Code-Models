@@ -13,5 +13,13 @@ The aim of this repository is to shine a light on research that delves into area
 | [Generating Adversarial Computer Programs using Optimized Obfuscations](https://openreview.net/forum?id=PH5PH9ZO_4) | 2021 | Srikant et al. | ICLR | Robustness     |
 
 
+## Acronyms
+
+- ICSE: The IEEE/ACM International Conference on Software Engineering
+- FSE: The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
+- ASE: The IEEE/ACM International Conference on Automated Software Engineering
+- SANER: The IEEE International Conference on. Software Analysis, Evolution and Reengineering
+- ICLR: The International Conference on Learning Representations
+
 # Contribution
 We welcome contributions from the community in the form of additional publications, topic suggestions, and any other resources that can enrich this repository. Together, let's work towards advancing the field of code modeling by focusing on aspects beyond accuracy.
