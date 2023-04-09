@@ -7,6 +7,7 @@ The aim of this repository is to shine a light on research that delves into area
 
 | Paper Title                                                    | Year | Author      | Venue | Topic   | Code |
 |----------------------------------------------------------------|------|-------------|-------|---------|------|
+| [CLAWSAT: Towards Both Robust and Accurate Code Models](https://arxiv.org/abs/2211.11711) | 2023 | Jia et al. | SANER | Data Robustness | [Code](https://github.com/OPTML-Group/CLAW-SAT) |
 | [Stealthy Backdoor Attack for Code Models](https://arxiv.org/abs/2301.02496) | 2023 | Yang et al. | ArXiV | Data Poisoning | [Code](https://github.com/yangzhou6666/adversarial-backdoor-for-code-models) |
 | [Natural attack for pre-trained models of code](https://dl.acm.org/doi/abs/10.1145/3510003.3510146) | 2022 | Yang et al. | ICSE | Robustness | [Code](https://github.com/soarsmu/attack-pretrain-models-of-code) |
 
