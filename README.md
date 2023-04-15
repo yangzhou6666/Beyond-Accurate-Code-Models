@@ -50,4 +50,7 @@ The aim of this repository is to shine a light on research that delves into area
 - ICLR: The International Conference on Learning Representations
 
 # Contribution
+
+Currently, the repository is maintained by [YANG Zhou](https://yangzhou6666.github.io).
+
 We welcome contributions from the community in the form of additional publications, topic suggestions, and any other resources that can enrich this repository. Together, let's work towards advancing the field of code modeling by focusing on aspects beyond accuracy.
