@@ -5,13 +5,18 @@ This GitHub repository is dedicated to curating a comprehensive collection of pu
 The aim of this repository is to shine a light on research that delves into areas such as robustness, interpretability, fairness, and other important criteria that can help improve the state of code models. By compiling these publications, we hope to provide a valuable resource for researchers and practitioners in the field of code modeling.
 
 
-| Paper Title                                                    | Year | Author      | Venue | Topic         |
-|----------------------------------------------------------------|------|-------------|-------|---------------|
-| [CLAWSAT: Towards Both Robust and Accurate Code Models](https://arxiv.org/abs/2211.11711) | 2023 | Jia et al. | SANER | Robustness |
-| [Stealthy Backdoor Attack for Code Models](https://arxiv.org/abs/2301.02496) | 2023 | Yang et al. | ArXiV | Data Poisoning |
-| [Compressing Pre-trained Models of Code into 3 MB](https://dl.acm.org/doi/abs/10.1145/3551349.3556964) | 2022 | Shi et al. | ASE | Model Compression     |
-| [Natural attack for pre-trained models of code](https://dl.acm.org/doi/abs/10.1145/3510003.3510146) | 2022 | Yang et al. | ICSE | Robustness     |
-| [Generating Adversarial Computer Programs using Optimized Obfuscations](https://openreview.net/forum?id=PH5PH9ZO_4) | 2021 | Srikant et al. | ICLR | Robustness     |
+| Paper Title                                                    | Author      | Venue | Year | Topic         |
+|----------------------------------------------------------------|-------------|-------|------|---------------|
+| Discrete Adversarial Attack to Models of Code                 | Guo et al.  | PLDI  | 2023 | Robustness    |
+| [CLAWSAT: Towards Both Robust and Accurate Code Models](https://arxiv.org/abs/2211.11711) | Jia et al.  | SANER | 2023 | Robustness    |
+| [Stealthy Backdoor Attack for Code Models](https://arxiv.org/abs/2301.02496) | Yang et al. | ArXiV | 2023 | Data Poisoning |
+| You see what I want you to see: poisoning vulnerabilities in neural code search | Wan et al.  | FSE   | 2022 |  Data Poisoning  |
+| Backdoors in neural models of source code | Ramakrishnan et al.  | ICPR   | 2022 |  Data Poisoning  |
+| [Compressing Pre-trained Models of Code into 3 MB](https://dl.acm.org/doi/abs/10.1145/3551349.3556964) | Shi et al.  | ASE   | 2022 | Model Compression |
+| [Natural attack for pre-trained models of code](https://dl.acm.org/doi/abs/10.1145/3510003.3510146) | Yang et al. | ICSE  | 2022 | Robustness    |
+| [Generating Adversarial Computer Programs using Optimized Obfuscations](https://openreview.net/forum?id=PH5PH9ZO_4) | Srikant et al. | ICLR | 2021 | Robustness    |
+| Generating Adversarial Examples for Holding Robustness of Source Code Processing Models | Zhang et al. | AAAI  | 2020 | Robustness    |
+
 
 
 ## Acronyms
