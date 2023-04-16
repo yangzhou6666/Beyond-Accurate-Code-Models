@@ -10,7 +10,7 @@ The aim of this repository is to shine a light on research that delves into area
 | Adversarial Attacks against Binary Similarity Systems | Capozzi et al.  | ArXiV   | 2023 |  Robustness  |
 | Discrete Adversarial Attack to Models of Code                 | Guo et al.  | PLDI  | 2023 | Robustness    |
 | A comparative study of adversarial training methods for neural models of source code                 | Li et al.  | FGCS  | 2023 | Robustness    |
-| [Memorization and generalization in neural code intelligence models | Rabin et al.  | IST | 2023 | Memorization    |
+| Memorization and generalization in neural code intelligence models | Rabin et al.  | IST | 2023 | Memorization    |
 | [CLAWSAT: Towards Both Robust and Accurate Code Models](https://arxiv.org/abs/2211.11711) | Jia et al.  | SANER | 2023 | Robustness    |
 | [CodeAttack: Code-based Adversarial Attacks for Pre-Trained Programming Language Models](https://people.cs.vt.edu/~reddy/papers/AAAI23.pdf) | Jha et al.  | AAAI | 2023 | Robustness    |
 | Poison Attack and Defense on Deep Source Code Processing Models | Li et al. | ArXiV | 2023 | Data Poisoning |
@@ -25,6 +25,7 @@ The aim of this repository is to shine a light on research that delves into area
 | Backdoors in neural models of source code | Ramakrishnan et al.  | ICPR   | 2022 |  Data Poisoning  |
 | CoProtector: Protect Open-Source Code against Unauthorized Training Usage with Data Poisoning | Sun et al.  | WWW   | 2022 |  Data Poisoning  |
 | Semantic robustness of models of source code | Ramakrishnan et al. | SANER  | 2022 | Robustness    |
+| Towards Robustness of Deep Program Processing Models—Detection, Estimation, and Enhancement | Zhang et al. | TOSEM  | 2022 | Robustness    |
 | RoPGen: Towards Robust Code Authorship Attribution via Automatic Coding Style Transformation | Li et al. | ICSE  | 2022 | Robustness    |
 | Counterfactual explanations for models of code | Cito et al. | ICSE  | 2022 | Explainability    |
 | [Natural attack for pre-trained models of code](https://dl.acm.org/doi/abs/10.1145/3510003.3510146) | Yang et al. | ICSE  | 2022 | Robustness    |
@@ -38,6 +39,7 @@ The aim of this repository is to shine a light on research that delves into area
 | Deceiving neural source code classifiers: finding adversarial examples with grammatical evolution | Springer et al. | KDD workshop | 2021 | Robustness    |
 | Deceiving neural source code classifiers: finding adversarial examples with grammatical evolution | Ferretti et al. | GECCO | 2021 | Robustness    |
 | Generating Adversarial Examples for Holding Robustness of Source Code Processing Models | Zhang et al. | AAAI  | 2020 | Robustness    |
+| Adversarial Robustness for Code | Bielik et al. | ICML  | 2020 | Robustness    |
 | Adversarial examples for models of code | Yefet et al. | OOPSLA  | 2020 | Robustness    |
 
 
