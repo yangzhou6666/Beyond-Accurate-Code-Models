@@ -7,6 +7,7 @@ The aim of this repository is to shine a light on research that delves into area
 
 | Paper Title                                                    | Author      | Venue | Year | Topic         |
 |----------------------------------------------------------------|-------------|-------|------|---------------|
+| "It's Weird That it Knows What I Want": Usability and Interactions with Copilot for Novice Programmers | Prather et al.  | TOCHI   | 2023 |  Usability  |
 | Adversarial Attacks against Binary Similarity Systems | Capozzi et al.  | ArXiV   | 2023 |  Robustness  |
 | Discrete Adversarial Attack to Models of Code                 | Guo et al.  | PLDI  | 2023 | Robustness    |
 | A comparative study of adversarial training methods for neural models of source code                 | Li et al.  | FGCS  | 2023 | Robustness    |
@@ -26,7 +27,10 @@ The aim of this repository is to shine a light on research that delves into area
 | CoProtector: Protect Open-Source Code against Unauthorized Training Usage with Data Poisoning | Sun et al.  | WWW   | 2022 |  Data Poisoning  |
 | Semantic robustness of models of source code | Ramakrishnan et al. | SANER  | 2022 | Robustness    |
 | Towards Robustness of Deep Program Processing Models—Detection, Estimation, and Enhancement | Zhang et al. | TOSEM  | 2022 | Robustness    |
+| A Research Agenda for Assessing the Economic Impacts of Code Generation Models | Manning et al. |   | 2022 | Economics    |
+| A Closer Look into Transformer-Based Code Intelligence Through Code Transformation: Challenges and Opportunities | Li et al. | ArXiV  | 2022 | Robustness    |
 | RoPGen: Towards Robust Code Authorship Attribution via Automatic Coding Style Transformation | Li et al. | ICSE  | 2022 | Robustness    |
+| "It would work for me too": How Online Communities Shape Software Developers' Trust in AI-Powered Code Generation Tools | Cheng et al. | ArViX  | 2022 | Trust    |
 | Counterfactual explanations for models of code | Cito et al. | ICSE  | 2022 | Explainability    |
 | [Natural attack for pre-trained models of code](https://dl.acm.org/doi/abs/10.1145/3510003.3510146) | Yang et al. | ICSE  | 2022 | Robustness    |
 | [Generating Adversarial Computer Programs using Optimized Obfuscations](https://openreview.net/forum?id=PH5PH9ZO_4) | Srikant et al. | ICLR | 2021 | Robustness    |
@@ -36,6 +40,7 @@ The aim of this repository is to shine a light on research that delves into area
 | Autocomplete Me: Poisoning Vulnerabilities in Neural Code Completion | Schuster, et al.  | USENIX   | 2021 | Data Poisoning |
 | On the generalizability of neural program models with respect to semantic-preserving program transformations | Rabin et al. | IST | 2021 | Robustness    |
 | A search-based testing framework for deep neural networks of source code embedding | Pour et al. | ICST | 2021 | Robustness    |
+| A Practical Black-Box Attack on Source Code Authorship Identification Classifiers | Liu et al. | TIFS | 2021 | Robustness    |
 | Deceiving neural source code classifiers: finding adversarial examples with grammatical evolution | Springer et al. | KDD workshop | 2021 | Robustness    |
 | Deceiving neural source code classifiers: finding adversarial examples with grammatical evolution | Ferretti et al. | GECCO | 2021 | Robustness    |
 | Generating Adversarial Examples for Holding Robustness of Source Code Processing Models | Zhang et al. | AAAI  | 2020 | Robustness    |
